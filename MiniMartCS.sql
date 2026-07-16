@@ -21,8 +21,8 @@ INSERT INTO Employees
     (title, firstname, lastname,
     position, username, passwordhash)
 VALUES
-    ('นาย', 'ธเนศพล', 'พงษ์วัน',
-    'Manager', 'user111', 'hashed1');
+    ('นาย', 'วสวัตติ์', 'สุขใจ',
+    'Manager', 'user101', 'hashed1');
 	--เมื่อเพิ่มแล้ว ทดสอบเรียกข้อมูลออกมาดู
 SELECT * FROM Employees
 
